@@ -1,0 +1,7 @@
+
+1. Create a security group 
+2. Create instances
+3. Create instance template
+3. launch template from instance
+
+Document this 
